@@ -1,0 +1,15 @@
+C:\Users\sthef\C#\projetos\CursoC#2023\OOP-CSharp\OrientadaAObjetos1\OrientadaAObjetos3\OrientadaAObjetos4\bin\Debug\net6.0\OrientadaAObjetos4.exe
+C:\Users\sthef\C#\projetos\CursoC#2023\OOP-CSharp\OrientadaAObjetos1\OrientadaAObjetos3\OrientadaAObjetos4\bin\Debug\net6.0\OrientadaAObjetos4.deps.json
+C:\Users\sthef\C#\projetos\CursoC#2023\OOP-CSharp\OrientadaAObjetos1\OrientadaAObjetos3\OrientadaAObjetos4\bin\Debug\net6.0\OrientadaAObjetos4.runtimeconfig.json
+C:\Users\sthef\C#\projetos\CursoC#2023\OOP-CSharp\OrientadaAObjetos1\OrientadaAObjetos3\OrientadaAObjetos4\bin\Debug\net6.0\OrientadaAObjetos4.dll
+C:\Users\sthef\C#\projetos\CursoC#2023\OOP-CSharp\OrientadaAObjetos1\OrientadaAObjetos3\OrientadaAObjetos4\bin\Debug\net6.0\OrientadaAObjetos4.pdb
+C:\Users\sthef\C#\projetos\CursoC#2023\OOP-CSharp\OrientadaAObjetos1\OrientadaAObjetos3\OrientadaAObjetos4\obj\Debug\net6.0\OrientadaAObjetos4.csproj.AssemblyReference.cache
+C:\Users\sthef\C#\projetos\CursoC#2023\OOP-CSharp\OrientadaAObjetos1\OrientadaAObjetos3\OrientadaAObjetos4\obj\Debug\net6.0\OrientadaAObjetos4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sthef\C#\projetos\CursoC#2023\OOP-CSharp\OrientadaAObjetos1\OrientadaAObjetos3\OrientadaAObjetos4\obj\Debug\net6.0\OrientadaAObjetos4.AssemblyInfoInputs.cache
+C:\Users\sthef\C#\projetos\CursoC#2023\OOP-CSharp\OrientadaAObjetos1\OrientadaAObjetos3\OrientadaAObjetos4\obj\Debug\net6.0\OrientadaAObjetos4.AssemblyInfo.cs
+C:\Users\sthef\C#\projetos\CursoC#2023\OOP-CSharp\OrientadaAObjetos1\OrientadaAObjetos3\OrientadaAObjetos4\obj\Debug\net6.0\OrientadaAObjetos4.csproj.CoreCompileInputs.cache
+C:\Users\sthef\C#\projetos\CursoC#2023\OOP-CSharp\OrientadaAObjetos1\OrientadaAObjetos3\OrientadaAObjetos4\obj\Debug\net6.0\OrientadaAObjetos4.dll
+C:\Users\sthef\C#\projetos\CursoC#2023\OOP-CSharp\OrientadaAObjetos1\OrientadaAObjetos3\OrientadaAObjetos4\obj\Debug\net6.0\refint\OrientadaAObjetos4.dll
+C:\Users\sthef\C#\projetos\CursoC#2023\OOP-CSharp\OrientadaAObjetos1\OrientadaAObjetos3\OrientadaAObjetos4\obj\Debug\net6.0\OrientadaAObjetos4.pdb
+C:\Users\sthef\C#\projetos\CursoC#2023\OOP-CSharp\OrientadaAObjetos1\OrientadaAObjetos3\OrientadaAObjetos4\obj\Debug\net6.0\OrientadaAObjetos4.genruntimeconfig.cache
+C:\Users\sthef\C#\projetos\CursoC#2023\OOP-CSharp\OrientadaAObjetos1\OrientadaAObjetos3\OrientadaAObjetos4\obj\Debug\net6.0\ref\OrientadaAObjetos4.dll
