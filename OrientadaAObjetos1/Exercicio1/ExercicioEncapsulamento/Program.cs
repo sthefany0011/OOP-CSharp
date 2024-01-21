@@ -15,7 +15,7 @@ char resp =char.Parse(Console.ReadLine());
 if(resp == 's' || resp == 'S')
 {
     Console.Write("Entre o valor de depósito inicial: ");
-    double valorDepositoInicial = double.Parse(Console.ReadLine());
+    double valorDepositoInicial = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
     conta = new Conta(numero, titular, valorDepositoInicial);
 }
 
