@@ -1,0 +1,15 @@
+C:\Users\sthef\C#\projetos\CursoC#2023\OOP-CSharp\OrientadaAObjetos1\Exercicio1\ExercicioEncapsulamento\bin\Debug\net6.0\ExercicioEncapsulamento.exe
+C:\Users\sthef\C#\projetos\CursoC#2023\OOP-CSharp\OrientadaAObjetos1\Exercicio1\ExercicioEncapsulamento\bin\Debug\net6.0\ExercicioEncapsulamento.deps.json
+C:\Users\sthef\C#\projetos\CursoC#2023\OOP-CSharp\OrientadaAObjetos1\Exercicio1\ExercicioEncapsulamento\bin\Debug\net6.0\ExercicioEncapsulamento.runtimeconfig.json
+C:\Users\sthef\C#\projetos\CursoC#2023\OOP-CSharp\OrientadaAObjetos1\Exercicio1\ExercicioEncapsulamento\bin\Debug\net6.0\ExercicioEncapsulamento.dll
+C:\Users\sthef\C#\projetos\CursoC#2023\OOP-CSharp\OrientadaAObjetos1\Exercicio1\ExercicioEncapsulamento\bin\Debug\net6.0\ExercicioEncapsulamento.pdb
+C:\Users\sthef\C#\projetos\CursoC#2023\OOP-CSharp\OrientadaAObjetos1\Exercicio1\ExercicioEncapsulamento\obj\Debug\net6.0\ExercicioEncapsulamento.csproj.AssemblyReference.cache
+C:\Users\sthef\C#\projetos\CursoC#2023\OOP-CSharp\OrientadaAObjetos1\Exercicio1\ExercicioEncapsulamento\obj\Debug\net6.0\ExercicioEncapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sthef\C#\projetos\CursoC#2023\OOP-CSharp\OrientadaAObjetos1\Exercicio1\ExercicioEncapsulamento\obj\Debug\net6.0\ExercicioEncapsulamento.AssemblyInfoInputs.cache
+C:\Users\sthef\C#\projetos\CursoC#2023\OOP-CSharp\OrientadaAObjetos1\Exercicio1\ExercicioEncapsulamento\obj\Debug\net6.0\ExercicioEncapsulamento.AssemblyInfo.cs
+C:\Users\sthef\C#\projetos\CursoC#2023\OOP-CSharp\OrientadaAObjetos1\Exercicio1\ExercicioEncapsulamento\obj\Debug\net6.0\ExercicioEncapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\sthef\C#\projetos\CursoC#2023\OOP-CSharp\OrientadaAObjetos1\Exercicio1\ExercicioEncapsulamento\obj\Debug\net6.0\ExercicioEncapsulamento.dll
+C:\Users\sthef\C#\projetos\CursoC#2023\OOP-CSharp\OrientadaAObjetos1\Exercicio1\ExercicioEncapsulamento\obj\Debug\net6.0\refint\ExercicioEncapsulamento.dll
+C:\Users\sthef\C#\projetos\CursoC#2023\OOP-CSharp\OrientadaAObjetos1\Exercicio1\ExercicioEncapsulamento\obj\Debug\net6.0\ExercicioEncapsulamento.pdb
+C:\Users\sthef\C#\projetos\CursoC#2023\OOP-CSharp\OrientadaAObjetos1\Exercicio1\ExercicioEncapsulamento\obj\Debug\net6.0\ExercicioEncapsulamento.genruntimeconfig.cache
+C:\Users\sthef\C#\projetos\CursoC#2023\OOP-CSharp\OrientadaAObjetos1\Exercicio1\ExercicioEncapsulamento\obj\Debug\net6.0\ref\ExercicioEncapsulamento.dll

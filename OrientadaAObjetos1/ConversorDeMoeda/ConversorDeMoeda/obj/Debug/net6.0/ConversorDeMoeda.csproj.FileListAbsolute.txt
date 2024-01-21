@@ -1,0 +1,15 @@
+C:\Users\sthef\C#\projetos\CursoC#2023\OOP-CSharp\OrientadaAObjetos1\ConversorDeMoeda\ConversorDeMoeda\bin\Debug\net6.0\ConversorDeMoeda.exe
+C:\Users\sthef\C#\projetos\CursoC#2023\OOP-CSharp\OrientadaAObjetos1\ConversorDeMoeda\ConversorDeMoeda\bin\Debug\net6.0\ConversorDeMoeda.deps.json
+C:\Users\sthef\C#\projetos\CursoC#2023\OOP-CSharp\OrientadaAObjetos1\ConversorDeMoeda\ConversorDeMoeda\bin\Debug\net6.0\ConversorDeMoeda.runtimeconfig.json
+C:\Users\sthef\C#\projetos\CursoC#2023\OOP-CSharp\OrientadaAObjetos1\ConversorDeMoeda\ConversorDeMoeda\bin\Debug\net6.0\ConversorDeMoeda.dll
+C:\Users\sthef\C#\projetos\CursoC#2023\OOP-CSharp\OrientadaAObjetos1\ConversorDeMoeda\ConversorDeMoeda\bin\Debug\net6.0\ConversorDeMoeda.pdb
+C:\Users\sthef\C#\projetos\CursoC#2023\OOP-CSharp\OrientadaAObjetos1\ConversorDeMoeda\ConversorDeMoeda\obj\Debug\net6.0\ConversorDeMoeda.csproj.AssemblyReference.cache
+C:\Users\sthef\C#\projetos\CursoC#2023\OOP-CSharp\OrientadaAObjetos1\ConversorDeMoeda\ConversorDeMoeda\obj\Debug\net6.0\ConversorDeMoeda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sthef\C#\projetos\CursoC#2023\OOP-CSharp\OrientadaAObjetos1\ConversorDeMoeda\ConversorDeMoeda\obj\Debug\net6.0\ConversorDeMoeda.AssemblyInfoInputs.cache
+C:\Users\sthef\C#\projetos\CursoC#2023\OOP-CSharp\OrientadaAObjetos1\ConversorDeMoeda\ConversorDeMoeda\obj\Debug\net6.0\ConversorDeMoeda.AssemblyInfo.cs
+C:\Users\sthef\C#\projetos\CursoC#2023\OOP-CSharp\OrientadaAObjetos1\ConversorDeMoeda\ConversorDeMoeda\obj\Debug\net6.0\ConversorDeMoeda.csproj.CoreCompileInputs.cache
+C:\Users\sthef\C#\projetos\CursoC#2023\OOP-CSharp\OrientadaAObjetos1\ConversorDeMoeda\ConversorDeMoeda\obj\Debug\net6.0\ConversorDeMoeda.dll
+C:\Users\sthef\C#\projetos\CursoC#2023\OOP-CSharp\OrientadaAObjetos1\ConversorDeMoeda\ConversorDeMoeda\obj\Debug\net6.0\refint\ConversorDeMoeda.dll
+C:\Users\sthef\C#\projetos\CursoC#2023\OOP-CSharp\OrientadaAObjetos1\ConversorDeMoeda\ConversorDeMoeda\obj\Debug\net6.0\ConversorDeMoeda.pdb
+C:\Users\sthef\C#\projetos\CursoC#2023\OOP-CSharp\OrientadaAObjetos1\ConversorDeMoeda\ConversorDeMoeda\obj\Debug\net6.0\ConversorDeMoeda.genruntimeconfig.cache
+C:\Users\sthef\C#\projetos\CursoC#2023\OOP-CSharp\OrientadaAObjetos1\ConversorDeMoeda\ConversorDeMoeda\obj\Debug\net6.0\ref\ConversorDeMoeda.dll
