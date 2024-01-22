@@ -1,0 +1,15 @@
+C:\Users\sthef\C#\projetos\CursoC#2023\OOP-CSharp\OrientadaAObjetos1\ExercicioMatriz2\ExercicioMatriz2\obj\Debug\net6.0\ExercicioMatriz2.csproj.AssemblyReference.cache
+C:\Users\sthef\C#\projetos\CursoC#2023\OOP-CSharp\OrientadaAObjetos1\ExercicioMatriz2\ExercicioMatriz2\obj\Debug\net6.0\ExercicioMatriz2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sthef\C#\projetos\CursoC#2023\OOP-CSharp\OrientadaAObjetos1\ExercicioMatriz2\ExercicioMatriz2\obj\Debug\net6.0\ExercicioMatriz2.AssemblyInfoInputs.cache
+C:\Users\sthef\C#\projetos\CursoC#2023\OOP-CSharp\OrientadaAObjetos1\ExercicioMatriz2\ExercicioMatriz2\obj\Debug\net6.0\ExercicioMatriz2.AssemblyInfo.cs
+C:\Users\sthef\C#\projetos\CursoC#2023\OOP-CSharp\OrientadaAObjetos1\ExercicioMatriz2\ExercicioMatriz2\obj\Debug\net6.0\ExercicioMatriz2.csproj.CoreCompileInputs.cache
+C:\Users\sthef\C#\projetos\CursoC#2023\OOP-CSharp\OrientadaAObjetos1\ExercicioMatriz2\ExercicioMatriz2\bin\Debug\net6.0\ExercicioMatriz2.exe
+C:\Users\sthef\C#\projetos\CursoC#2023\OOP-CSharp\OrientadaAObjetos1\ExercicioMatriz2\ExercicioMatriz2\bin\Debug\net6.0\ExercicioMatriz2.deps.json
+C:\Users\sthef\C#\projetos\CursoC#2023\OOP-CSharp\OrientadaAObjetos1\ExercicioMatriz2\ExercicioMatriz2\bin\Debug\net6.0\ExercicioMatriz2.runtimeconfig.json
+C:\Users\sthef\C#\projetos\CursoC#2023\OOP-CSharp\OrientadaAObjetos1\ExercicioMatriz2\ExercicioMatriz2\bin\Debug\net6.0\ExercicioMatriz2.dll
+C:\Users\sthef\C#\projetos\CursoC#2023\OOP-CSharp\OrientadaAObjetos1\ExercicioMatriz2\ExercicioMatriz2\bin\Debug\net6.0\ExercicioMatriz2.pdb
+C:\Users\sthef\C#\projetos\CursoC#2023\OOP-CSharp\OrientadaAObjetos1\ExercicioMatriz2\ExercicioMatriz2\obj\Debug\net6.0\ExercicioMatriz2.dll
+C:\Users\sthef\C#\projetos\CursoC#2023\OOP-CSharp\OrientadaAObjetos1\ExercicioMatriz2\ExercicioMatriz2\obj\Debug\net6.0\refint\ExercicioMatriz2.dll
+C:\Users\sthef\C#\projetos\CursoC#2023\OOP-CSharp\OrientadaAObjetos1\ExercicioMatriz2\ExercicioMatriz2\obj\Debug\net6.0\ExercicioMatriz2.pdb
+C:\Users\sthef\C#\projetos\CursoC#2023\OOP-CSharp\OrientadaAObjetos1\ExercicioMatriz2\ExercicioMatriz2\obj\Debug\net6.0\ExercicioMatriz2.genruntimeconfig.cache
+C:\Users\sthef\C#\projetos\CursoC#2023\OOP-CSharp\OrientadaAObjetos1\ExercicioMatriz2\ExercicioMatriz2\obj\Debug\net6.0\ref\ExercicioMatriz2.dll
