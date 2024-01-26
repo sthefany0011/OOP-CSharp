@@ -1,0 +1,15 @@
+C:\Users\sthef\C#\projetos\CursoC#2023\OOP-CSharp\OrientadaAObjetos1\EnumeracaoEComposicao\EnumeracaoEComposicao\obj\Debug\net6.0\EnumeracaoEComposicao.csproj.AssemblyReference.cache
+C:\Users\sthef\C#\projetos\CursoC#2023\OOP-CSharp\OrientadaAObjetos1\EnumeracaoEComposicao\EnumeracaoEComposicao\obj\Debug\net6.0\EnumeracaoEComposicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sthef\C#\projetos\CursoC#2023\OOP-CSharp\OrientadaAObjetos1\EnumeracaoEComposicao\EnumeracaoEComposicao\obj\Debug\net6.0\EnumeracaoEComposicao.AssemblyInfoInputs.cache
+C:\Users\sthef\C#\projetos\CursoC#2023\OOP-CSharp\OrientadaAObjetos1\EnumeracaoEComposicao\EnumeracaoEComposicao\obj\Debug\net6.0\EnumeracaoEComposicao.AssemblyInfo.cs
+C:\Users\sthef\C#\projetos\CursoC#2023\OOP-CSharp\OrientadaAObjetos1\EnumeracaoEComposicao\EnumeracaoEComposicao\obj\Debug\net6.0\EnumeracaoEComposicao.csproj.CoreCompileInputs.cache
+C:\Users\sthef\C#\projetos\CursoC#2023\OOP-CSharp\OrientadaAObjetos1\EnumeracaoEComposicao\EnumeracaoEComposicao\bin\Debug\net6.0\EnumeracaoEComposicao.exe
+C:\Users\sthef\C#\projetos\CursoC#2023\OOP-CSharp\OrientadaAObjetos1\EnumeracaoEComposicao\EnumeracaoEComposicao\bin\Debug\net6.0\EnumeracaoEComposicao.deps.json
+C:\Users\sthef\C#\projetos\CursoC#2023\OOP-CSharp\OrientadaAObjetos1\EnumeracaoEComposicao\EnumeracaoEComposicao\bin\Debug\net6.0\EnumeracaoEComposicao.runtimeconfig.json
+C:\Users\sthef\C#\projetos\CursoC#2023\OOP-CSharp\OrientadaAObjetos1\EnumeracaoEComposicao\EnumeracaoEComposicao\bin\Debug\net6.0\EnumeracaoEComposicao.dll
+C:\Users\sthef\C#\projetos\CursoC#2023\OOP-CSharp\OrientadaAObjetos1\EnumeracaoEComposicao\EnumeracaoEComposicao\bin\Debug\net6.0\EnumeracaoEComposicao.pdb
+C:\Users\sthef\C#\projetos\CursoC#2023\OOP-CSharp\OrientadaAObjetos1\EnumeracaoEComposicao\EnumeracaoEComposicao\obj\Debug\net6.0\EnumeracaoEComposicao.dll
+C:\Users\sthef\C#\projetos\CursoC#2023\OOP-CSharp\OrientadaAObjetos1\EnumeracaoEComposicao\EnumeracaoEComposicao\obj\Debug\net6.0\refint\EnumeracaoEComposicao.dll
+C:\Users\sthef\C#\projetos\CursoC#2023\OOP-CSharp\OrientadaAObjetos1\EnumeracaoEComposicao\EnumeracaoEComposicao\obj\Debug\net6.0\EnumeracaoEComposicao.pdb
+C:\Users\sthef\C#\projetos\CursoC#2023\OOP-CSharp\OrientadaAObjetos1\EnumeracaoEComposicao\EnumeracaoEComposicao\obj\Debug\net6.0\EnumeracaoEComposicao.genruntimeconfig.cache
+C:\Users\sthef\C#\projetos\CursoC#2023\OOP-CSharp\OrientadaAObjetos1\EnumeracaoEComposicao\EnumeracaoEComposicao\obj\Debug\net6.0\ref\EnumeracaoEComposicao.dll
